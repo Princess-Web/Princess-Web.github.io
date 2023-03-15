@@ -1,0 +1,43 @@
+h2{
+    color:azure;
+    font-family:Lobster;
+    font-size: 58px;
+    font-style:italic;
+    font-weight:900;
+    padding: 12px;
+    text-align:center;
+}
+.body{
+    background-image: url(imagenes2/elbonito.jpg); 
+    padding: 2%;
+}
+imagen1{
+    align-content: center;
+    margin:1px;
+}
+h1{
+    color:cornsilk;
+    font-family:Lobster;
+    font-size: 60px;
+    background-color:#FF0087;
+    font-style:italic;
+    text-decoration-color:blueviolet;
+    text-align:center;
+}
+header{
+    border:20px groove;
+    border-color:#60C1C4;
+    border-radius:30px;
+    margin:inherit;
+}
+div {
+    border-style:dotted;
+    border-color: aliceblue;
+    margin: 1px;
+    padding:2px; 
+}
+#textoinfo{
+    display: inline-block;
+    color:beige;
+    font-size: 40px;
+}

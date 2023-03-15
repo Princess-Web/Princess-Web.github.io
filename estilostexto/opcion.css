@@ -1,0 +1,16 @@
+.s{
+    display: inline-block;
+    width: 180px;
+    text-align: center;
+    font-size: 30px
+}
+
+h2{
+    text-align: center;
+    border: 3px aqua solid;
+    background-color: aqua;
+}
+
+html{
+    background-color: blueviolet;
+}

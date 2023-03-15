@@ -1,0 +1,163 @@
+.body{
+    background-color: black;
+}
+#imagen1{
+    display: inline-block;
+    float: left;
+}
+#imagen2{
+    display: inline-block;
+    float:right;
+}
+#logoQR{
+    display: inline-block;
+    width: 20%;
+    float: left;
+}
+#logo2{
+    display: inline-block;
+    width: 10%;
+    float:right;
+}
+#titulotexto{
+    display: inline-block;
+    width: 60%;
+    color: cadetblue;
+    text-align: center;
+    
+}
+#barra{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width: 93%;
+    background-color:cadetblue;
+    text-align: center;
+    border: solid;
+    margin: 10%;
+}
+#marco{
+    width: 100%;
+    height: 800px;;
+    border-radius: 20px;
+}
+#pie{
+    border: solid;
+    background-color:cadetblue;
+    text-align: center;
+    color: aliceblue;
+    font-size: 35px;
+    background: #ff0000; 
+    background: -webkit-linear-gradient(to right, #016471, #9932cc);
+    background: linear-gradient(to right, #016471, #B61DD5); 
+    font-family:monospace;
+}
+h1{
+    float: right;
+}
+#p{
+    float: right;
+}
+#p1{
+    float: right;
+    text-align: right;
+    display: inline-block;
+    color:darkseagreen;
+}
+
+#imagen1{
+    display: inline-block;
+    float: left;
+}
+#textoinfo{
+    text-align: center;
+    color:beige;
+    font-size: 40px;
+    color: darkslategray;
+}
+#titulo1{
+    clear: both;
+    font-size: 90px;
+    background: #ff0000;
+    background: -webkit-linear-gradient(to right, #ff0000, #9932cc);
+    background: linear-gradient(to right, #04D2A3, #B61DD5); 
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family:Lobster;
+    font-style:italic;
+    text-decoration-color:blueviolet;
+    font-weight:7px;
+    padding: 1px;
+    text-align:center;
+    background-color: dimgray;
+}
+#titulo2{
+    clear: both;
+    font-size: 70px;
+}
+#h3{
+     text-decoration-style:double; 
+}
+#h4{
+    
+}
+#titulo5{
+    display: inline-block;
+    width: 60%;
+    color:#5D055B;
+    text-align:left;
+}
+#tituloturismo{
+    display: inline-block;
+    width: 60%;
+    color: cadetblue;
+    text-align:right;
+    font-family:American Typewriter (serif);
+    font-size: 99px;
+}
+#titulo6{
+    display: inline-block;
+    width: 60%;
+    color:#5D055B;
+    text-align:left;
+    
+}
+#titulo3{
+   display: inline-block;
+    width: 95%;
+    color: cadetblue;
+    text-align:left;
+    font-size: 90px;
+    font-family:inherit;
+    text-align:right;
+}
+#titulo5{
+    display: inline-block;
+    width: 60%;
+   color:#5D055B;
+    text-align:left;
+    font-size: 40px;
+    font-family:cursive;
+    text-align:left;
+  }
+
+}#titulo6{
+     display: inline-block;
+    width: 60%;
+   color:#5D055B;
+    text-align:left;
+    font-size: 40px;
+    font-family:cursive;
+    text-align:left;
+  text-align: left;
+}
+#linea{
+    color: black;
+    background: #E90101;
+
+
+.body1{
+    background-image:url(imagenes/rosaelegante.jpg)
+}

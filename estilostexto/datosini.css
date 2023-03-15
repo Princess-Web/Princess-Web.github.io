@@ -1,0 +1,27 @@
+
+#imagen1{
+    display: inline-block;
+    float:left;
+    width: 1000px;
+    height: 1500px;
+    border: 8px dashed #FEEB04;
+}
+#imagen2{
+    display: inline-block;
+    float:right;
+    border: 8px dashed #FEEB04;
+}
+#textoinfo{
+    text-align:left;
+    font-size: 40px;
+    color:aliceblue;
+    display: inline-block;
+}
+#h1{
+    background-color: palevioletred;
+    color: azure;
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;
+    border: 5px dashed #FFFFFF;
+}
